@@ -1,0 +1,26 @@
+.post{
+   display: flex; 
+   flex-direction: column;
+   margin-left: 48px;
+   margin-right: 48px;
+   border: blue;
+}
+.imageSize{
+    width:20%
+}
+.postImage{
+    width:20%
+}
+.linktag{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    border: black;
+    margin-left: 48px;
+    margin-right: 48px;
+
+}
+.linktag:hover{
+    color: green
+} 
